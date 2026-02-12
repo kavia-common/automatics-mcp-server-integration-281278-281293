@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/automatics-mcp-server-integration-281278-281293/mcp_minimal_client_app"
+}
